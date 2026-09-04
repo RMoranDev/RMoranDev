@@ -14,7 +14,7 @@
 
 ---
 ### 📌 Projetos em destaque
-📚 Sistema de Biblioteca
+📚 [Sistema de Biblioteca](https://github.com/RMoranDev/Biblioteca)
 
 Sistema desenvolvido em Java para gerenciamento de uma biblioteca, utilizando:
 
