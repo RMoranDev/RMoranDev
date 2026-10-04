@@ -8,9 +8,7 @@
 ### 🚀 Sobre mim
 - 🎓 Cursando **ADS na Pontifícia Universidade Católica do Paraná (PUCPR)**.
 - 🔭 Desenvolvendo projetos práticos com **Java, Maven, MySQL e arquitetura em camadas**.
-- 🔭 Atualmente aprofundando conhecimentos em POO, Collections, Streams, JDBC, bancos de dados relacionais e boas práticas de código.
-- 🌱 Próximos focos: Spring Boot, Hibernate/JPA e desenvolvimento de APIs REST.
-- 🎯 Objetivo: oportunidades de **Estágio / Desenvolvedor Java Júnior**.
+- 🔭 Atualmente aprofundando conhecimentos em SpringBoot e APIs REST.
 
 ---
 ### 📌 Projetos em destaque
