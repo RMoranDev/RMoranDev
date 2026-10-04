@@ -1,10 +1,5 @@
 # Olá, sou o Ricardo Moran 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas na PUCPR**  
-💻 **Desenvolvedor em formação com foco em Java, Backend e Spring Boot**
-
----
-
 ### 🚀 Sobre mim
 - 🎓 Cursando **ADS na Pontifícia Universidade Católica do Paraná (PUCPR)**.
 - 🔭 Desenvolvendo projetos práticos com **Java, Maven, MySQL e arquitetura em camadas**.
