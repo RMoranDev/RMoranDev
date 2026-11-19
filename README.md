@@ -5,7 +5,9 @@ I am a Systems Analysis and Development student at PUCPR, focused on back-end de
 ## Featured Projects
 
 **[Sistema de Biblioteca](https://github.com/RMoranDev/biblioteca-jdbc-postgres)**
+
 Java-based library management system with layered architecture and JDBC data access.
+
 `Java` `JDBC` `PostgreSQL` `Maven` `JUnit`
 
 ## Back-End Technologies
